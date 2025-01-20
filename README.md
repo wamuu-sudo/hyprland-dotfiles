@@ -10,6 +10,9 @@ Voici les dépendances nécessaires à son fonctionnement :
  - Kitty
  - Nerd Fonts (https://github.com/ryanoasis/Nerd-Fonts)
 
+Optionnel :
+ - wallpaper-but-better (https://github.com/wamuu-sudo/wallpaper-but-better).
+
 Vous référez à la documentation de ces paquets ou au wiki d'Hyprland : https://wiki.hyprland.org/Getting-Started/Installation/
 
 ## Hyprland
