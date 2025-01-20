@@ -8,6 +8,7 @@ Voici les dépendances nécessaires à son fonctionnement :
  - Hyprpaper
  - Waybar
  - Kitty
+ - Nerd Fonts (https://github.com/ryanoasis/Nerd-Fonts)
 
 Vous référez à la documentation de ces paquets ou au wiki d'Hyprland : https://wiki.hyprland.org/Getting-Started/Installation/
 
